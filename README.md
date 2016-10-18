@@ -1,4 +1,7 @@
 # bc_project
+
+   The project is not yet complete.
+
    bc is an arbitrary precision numeric processing language. 
    The most basic element in bc is the number.  Numbers are
 arbitrary precision numbers.  This precision is both in the integer part
