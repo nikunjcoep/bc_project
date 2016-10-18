@@ -9,10 +9,12 @@ significant decimal digits in a number and the scale is the total number
 of decimal digits after the decimal point.  For example, .000001 has a
 length of 6 and scale of 6, while 1935.000 has a length of 7 and a scale
 of 3.
+
   Numbers are stored in two types of variables, simple variables and
 arrays.  Both simple variables and array variables are named.  Names
 begin with a letter followed by any number of letters, digits and
 underscores.  All letters must be lower case.
+
   There are four special variables, scale, ibase, obase, and
 last. 'scale' defines how some operations use digits after the
 decimal point.  The default value of scale is 0. 'ibase'
