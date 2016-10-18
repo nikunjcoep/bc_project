@@ -1,6 +1,8 @@
 # bc_project
 
    The project is not yet complete.
+   Many features are yet to be done.
+   The main() will be written at last.
 
    bc is an arbitrary precision numeric processing language. 
    The most basic element in bc is the number.  Numbers are
