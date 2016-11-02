@@ -18,23 +18,11 @@ decimal point.  The default value of scale is 0. 'ibase'
 and 'obase' define the conversion base for input and output
 numbers. The default for both input and output is base 10.
 
-   Basic Expressions
-   In the following descriptions of legal expressions, "expr" refers to a
+    In the following descriptions of legal expressions, "expr" refers to a
 complete expression.
 
    Unless specifically mentioned the scale of the result is the maximum
 scale of the expressions involved.
-
- - expr
-The result is the negation of the expression.
-
- ++ var
-The variable is incremented by one and the new value is the result of
-the expression.
-
- -- var
-The variable is decremented by one and the new value is the result of the
-expression.
 
  expr + expr
 The result of the expression is the sum of the two expressions.
